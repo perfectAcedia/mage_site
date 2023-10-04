@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+# Mage Hub
+This site will be developed for use as a knowledgebase for players from the World of Warcraft.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
